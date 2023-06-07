@@ -1,6 +1,6 @@
 @font-face {
   font-family: 'EB Garamond';
-  scr:
+  src:
     url(./ebgaramondmedium.woff2) format('woff2'),
     url(./ebgaramondmedium.woff) format( 'woff'),
     url(./ebgaramondmedium.ttf) format( 'truetype');
@@ -10,7 +10,7 @@
  
  @font-face {
   font-family: 'EB Garamond';
-  scr:
+  src:
     url(./ebgaramondregular.woff2) format('woff2'),
     url(./ebgaramondregular.woff) format( 'woff'),
     url(./ebgaramondregular.ttf) format('truetype');
